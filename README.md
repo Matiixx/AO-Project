@@ -1,8 +1,6 @@
-
 # AO-Project
 
 Rozpoznawanie znaków z tablicy rejestracyjnej ze zdjęcia samochodu
-
 
 ## Instalacja i uruchomienie
 
@@ -12,15 +10,15 @@ Instalacja odpowiednich bibliotek
   pip install -r requirements.txt
 ```
 
-Uruchomienie 
+Uruchomienie
 
 ```bash
   python3 main.py
 ```
+
 ## Dokumentacja
 
-[Dokumentacja](https://linktodocumentation)
-
+[Dokumentacja](https://github.com/Matiixx/AO-Project/blob/main/docs/Docs.pdf)
 
 ## Autorzy
 
@@ -28,4 +26,3 @@ Uruchomienie
 - Jakub Wójcik
 - Jakub Urbański
 - Mateusz Cichostępski
-
